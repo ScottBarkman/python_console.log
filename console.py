@@ -7,6 +7,9 @@ class Console(object):
         print(message)
 
     def warn(self, message):
-        print (message)
+        print(message)
+
+    def debug(self, message):
+        print(message)
 
 console = Console()
