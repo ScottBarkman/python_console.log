@@ -5,7 +5,7 @@ For years, JavaScript developers have had a one up on Python, by being able to p
 
 ## Usage
 ```
-import console.py
+import console
 
 console.log('debug message!')
 ```
