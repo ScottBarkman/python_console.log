@@ -12,4 +12,7 @@ console.log('debug message!')
 
 ### What's Next? 
 
-I'm accepting pull requests to enhance functionality. I can't do this by myself people. 
+- Unit Tests
+- Other method functionality
+- Travis CI Integration
+- PyPi submission
