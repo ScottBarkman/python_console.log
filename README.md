@@ -8,6 +8,8 @@ For years, JavaScript developers have had a one up on Python. They've been able 
 from console import console
 
 console.log('debug message!')
+
+console.debug('Is this working?')
 ```
 
 ### What's Next? 
